@@ -1,16 +1,16 @@
-# Hello_World
+## Hello_World
 Practice Repository
 
 I am a first year graduate student in the University of Iowa's Master of Business Analytics program, graduating in December of 2022.
 
-## Project Title
+### Project Title
 
-## Description
+### Description
 
-## How to Run Program
+### How to Run Program
 
-## Files Used
+### Files Used
 
-## Additional Documentation
+### Additional Documentation
 
-## Versioning
+### Versioning
