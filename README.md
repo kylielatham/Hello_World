@@ -1,16 +1,5 @@
 ## Hello_World
-Practice Repository
 
-I am a first year graduate student in the University of Iowa's Master of Business Analytics program, graduating in December of 2022.
+I am a first year graduate student in the University of Iowa's Master of Business Analytics program, graduating in December of 2022. I am interested in business analytics, specifically for the purpose of business consulting. I am excited to add the projects I am working on to my GitHub as my skills develop!
 
-### Project Title
-
-### Description
-
-### How to Run Program
-
-### Files Used
-
-### Additional Documentation
-
-### Versioning
+Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/latham-kylie/ 
